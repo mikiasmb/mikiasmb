@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mikiasmb
-- 👀 I’m interested in ... ML, AI specially in creating ai assistant and other AI things
+- 👀 I’m interested in ... ML, AI & business $$$
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
