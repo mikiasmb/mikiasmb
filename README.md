@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @mikiasmb
-- 👀 I’m interested in ... ML, AI & business $$$
+- 👀 I’m interested in ... ML, AI
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ... he
-- ⚡ Fun fact: ... i live in Ethiopia
+- ⚡ Fun fact: ... I live in Ethiopia
 
 <!---
 mikiasmb/mikiasmb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
