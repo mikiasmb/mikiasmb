@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mikiasmb
-- 👀 I’m interested in ... ML, AI
+- 👀 I’m interested in ... IPA(Intelligent Person Assistant)
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... use my Instagram account 
 - 😄 Pronouns: ... he
 - ⚡ Fun fact: ... I live in Ethiopia
 
