@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mikiasmb
-- 👀 I’m interested in ... IPA(Intelligent Person Assistant)
+- 👀 I’m interested in ... Cyber security (Red Team and PT)
 - 🌱 I’m currently learning ... python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... use my Instagram account 
 - 😄 Pronouns: ... he
 - ⚡ Fun fact: ... I live in Ethiopia
