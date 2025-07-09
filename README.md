@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @mikiasmb
-- 👀 I’m interested in ... Cyber security (Red Team and PT)
-- 🌱 I’m currently learning ... python
+- 👀 I’m interested in ... Cyber security (offensive)
+- 🌱 I’m currently learning ... python and kali linux commands
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... use my Instagram account 
-- 😄 Pronouns: ... he
+- 📫 How to reach me ...  
 - ⚡ Fun fact: ... I live in Ethiopia
 
 <!---
