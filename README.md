@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mikiasmb
-- 👀 I’m interested in ... Cyber security (offensive)
-- 🌱 I’m currently learning ... python and kali linux commands
+- 👀 I’m interested in ... Cyber security (offensive) and also in ML (I want to create personal AI assistant)
+- 🌱 I’m currently learning ... towards my interest
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...  
 - ⚡ Fun fact: ... I live in Ethiopia
