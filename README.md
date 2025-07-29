@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mikiasmb
-- 👀 I’m interested in ... Cyber security (offensive) and also in ML (I want to create personal AI assistant)
+- 👀 I’m interested in ... Cyber security (offensive) and also in ML (I am building intelligent bot)
 - 🌱 I’m currently learning ... towards my interest
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...  
