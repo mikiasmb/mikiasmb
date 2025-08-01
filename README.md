@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mikiasmb
-- 👀 I’m interested in ... Cyber security (offensive)
+- 👀 I’m interested in ... Cybersecurity
 - 🌱 I’m currently learning ... towards my interest
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...  
